@@ -1,0 +1,18 @@
+#r {
+    background - color:red;
+    width:250px; 
+    height:150px; /
+    transform:skewx(30deg) skewy(20deg); 
+}
+#y {
+    background - color:yellow;
+    width:250px;
+    height:150px;
+    transform:skewx(30deg) skewy(20deg);
+}
+#g {
+    background - color:green;
+    width:250px;
+    height:150px;
+    transform:skewx(30deg) skewy(20deg);
+}
